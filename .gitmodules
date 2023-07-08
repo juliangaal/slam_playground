@@ -1,0 +1,6 @@
+[submodule "tools/points_inspector"]
+	path = tools/points_inspector
+	url = git@github.com:juliangaal/points_inspector.git
+[submodule "scan_matching/scan_matching"]
+	path = scan_matching/scan_matching
+	url = git@github.com:juliangaal/scan_matching.git
